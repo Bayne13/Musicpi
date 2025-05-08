@@ -42,7 +42,7 @@ import shutil
 import update_display
 
 # --- CONFIGURATION ---
-MUSIC_DIR = '/home/MusiPi/Music'
+MUSIC_DIR = '/home/Music'
 OLED_WIDTH = 128
 OLED_HEIGHT = 32
 PIN_A = 22  # CLK
