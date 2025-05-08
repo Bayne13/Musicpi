@@ -1,2 +1,3 @@
 source /opt/musicpi/venv/bin/activate
-sudo python3 /opt/musicpi/Main.py
+sudo chownn -R $USER:$USER /opt/musicpi/Main.py
+python3 /opt/musicpi/Main.py
